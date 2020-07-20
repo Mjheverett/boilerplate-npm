@@ -1,6 +1,6 @@
 {
-	"author": "Matthew Everett",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Matthew Everett",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
